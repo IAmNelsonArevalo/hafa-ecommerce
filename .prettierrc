@@ -1,0 +1,7 @@
+{
+    "trailingComma": "all",
+    "bracketSpacing": false,
+    "bracketSameLine": false,
+    "jsxBracketSameLine": false,
+    "tabWidth": 4
+}
